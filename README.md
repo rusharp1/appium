@@ -12,6 +12,12 @@ carrot/
 └── README.md              # 프로젝트 설명서
 ```
 
+## 💻실제 사용 예시
+
+https://youtu.be/8knjWG2prBs
+https://youtu.be/-lSIQkmYHAo
+
+
 ## 🚀 주요 기능
 
 ### 1. 좋아요 자동화 봇 (`CarrotLikeBot`)
